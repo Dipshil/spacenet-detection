@@ -25,4 +25,6 @@ Final model code is contained in stanfordmodel.ipynb
 ## Evaluation Metric
 The ground truth for objects is given as polygons. Thus we intend to use intersection over Union as the evaluation metric for object segmentation. 
 
+## Main Code file
+stanfordmodel.ipynb
 
